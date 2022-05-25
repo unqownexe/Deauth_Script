@@ -2,7 +2,7 @@
 
 # Info
 - (Kali) Linux için Py. ile kodlanan Deauth Script.
-- Seçtiğiniz ağa saldırarak üyeleri kopartır; ister şakasına, ister paket yakalama yapın.
+- Seçtiğiniz ağa saldırarak üyeleri kopartır; ister şakasına, ister paket yakalamak için yapın.
 - <b>subprocess</b>, <b>colorama</b>, <b>airmon-ng</b>, <b>airodump-ng</b>, <b>aireplay-ng</b> gerekir.
 
 # Fotoğraf

@@ -10,6 +10,6 @@
 
 ## İletişim & Yardım İçin
 - Discord: [Unqown Exe#4214](https://discord.com/users/791255637920972801)
-- Website: [www.unqown.xyz](https://www.unqown.xyz)
-- Discord Sunucusu: [Discord](https://unqown.xyz/davet)
-- İletişim: [www.unqown.xyz/iletisim](https://www.unqown.xyz/iletisim)
+- Website: [www.unqown.com](www.unqown.com)
+- Discord Sunucusu: [Discord](www.unqown.com)
+- İletişim: [www.unqown.com](www.unqown.com)
